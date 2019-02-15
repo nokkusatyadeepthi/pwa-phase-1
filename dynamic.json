@@ -1,0 +1,49 @@
+{
+	"profile":{
+		"Image":"pic1.jpg",
+		"Name":"NOKKU SATYA DEEPTHI",
+		"RollNo":"17A31A0520",
+		"Place":"Kakinada",
+		"Gmail":"deepthi2000satya@gmail.com"
+	},
+	"career":{
+		"Info":"I want to seek a position where i can utilize my knowledge and skills for the betterment of society"
+	},
+	"education":[
+		{
+		"Sno":"1.",
+		"Degree":"BTech",
+		"Institute":"Pragati",
+		"Percentage":"85%",
+		"Yop":"2021"
+	    },
+	    {
+	    "Sno":"2.",
+		"Degree":"Intermediate",
+		"Institute":"Narayana",
+		"Percentage":"96%",
+		"Yop":"2017"
+	    },
+	    {
+	    "Sno":"3.",
+		"Degree":"SSC",
+		"Institute":"Sri chaitanya",
+		"Percentage":"98%",
+		"Yop":"2015"
+	    }
+	],
+	"languages":[
+		{
+			"Lang":"English"
+		},
+		{
+			"Lang":"Telegu"
+		},
+		{
+			"Lang":"Hindi"
+		},
+		{
+			"Lang":"Tamil"
+		}
+	]
+}
